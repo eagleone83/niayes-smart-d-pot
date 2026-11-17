@@ -1,0 +1,127 @@
+{
+  "config": {
+    "whatsapp": "221772555555",
+    "livraison": 3000,
+    "gratuite_des": 50000,
+    "commande_min": 5000,
+    "delai_jours": 1,
+    "paiement": "À la livraison (espèces, Wave ou Orange Money)",
+    "_note": "EXEMPLES À REMPLACER : whatsapp, prix, horaires, zone, adresse, ninea (laisser vide pour masquer).",
+    "horaires": "Lun–Sam, 7h–18h",
+    "zone": "Livraison à Dakar et environs",
+    "adresse": "",
+    "ninea": ""
+  },
+  "produits": [
+    {
+      "id": "oignon",
+      "nom": "Oignon local",
+      "categorie": "Légumes",
+      "unite": "kg",
+      "prix": 600,
+      "prix_pro": 500,
+      "min_pro": 25,
+      "origine": "Niayes",
+      "dispo": true
+    },
+    {
+      "id": "pdt",
+      "nom": "Pomme de terre",
+      "categorie": "Légumes",
+      "unite": "kg",
+      "prix": 550,
+      "prix_pro": 470,
+      "min_pro": 25,
+      "origine": "Niayes",
+      "dispo": true
+    },
+    {
+      "id": "carotte",
+      "nom": "Carotte",
+      "categorie": "Légumes",
+      "unite": "kg",
+      "prix": 600,
+      "prix_pro": 500,
+      "min_pro": 20,
+      "origine": "Niayes",
+      "dispo": true
+    },
+    {
+      "id": "chou",
+      "nom": "Chou",
+      "categorie": "Légumes",
+      "unite": "kg",
+      "prix": 400,
+      "prix_pro": 330,
+      "min_pro": 20,
+      "origine": "Niayes",
+      "dispo": true
+    },
+    {
+      "id": "tomate",
+      "nom": "Tomate",
+      "categorie": "Légumes",
+      "unite": "kg",
+      "prix": 700,
+      "prix_pro": 580,
+      "min_pro": 20,
+      "origine": "Niayes",
+      "dispo": true
+    },
+    {
+      "id": "poivron",
+      "nom": "Poivron",
+      "categorie": "Légumes",
+      "unite": "kg",
+      "prix": 1200,
+      "prix_pro": 1000,
+      "min_pro": 10,
+      "origine": "Niayes",
+      "dispo": true
+    },
+    {
+      "id": "aubergine",
+      "nom": "Aubergine",
+      "categorie": "Légumes",
+      "unite": "kg",
+      "prix": 700,
+      "prix_pro": 580,
+      "min_pro": 10,
+      "origine": "Niayes",
+      "dispo": true
+    },
+    {
+      "id": "concombre",
+      "nom": "Concombre",
+      "categorie": "Légumes",
+      "unite": "kg",
+      "prix": 500,
+      "prix_pro": 420,
+      "min_pro": 15,
+      "origine": "Niayes",
+      "dispo": true
+    },
+    {
+      "id": "papaye",
+      "nom": "Papaye",
+      "categorie": "Fruits",
+      "unite": "kg",
+      "prix": 600,
+      "prix_pro": 500,
+      "min_pro": 15,
+      "origine": "Niayes",
+      "dispo": true
+    },
+    {
+      "id": "piment",
+      "nom": "Piment",
+      "categorie": "Condiments",
+      "unite": "kg",
+      "prix": 1500,
+      "prix_pro": 1250,
+      "min_pro": 5,
+      "origine": "Niayes",
+      "dispo": false
+    }
+  ]
+}

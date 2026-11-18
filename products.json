@@ -1,13 +1,13 @@
 {
   "config": {
-    "whatsapp": "221772555555",
+    "whatsapp": "221774340480",
     "livraison": 3000,
-    "gratuite_des": 50000,
+    "gratuite_des": 20000,
     "commande_min": 5000,
     "delai_jours": 1,
     "paiement": "À la livraison (espèces, Wave ou Orange Money)",
     "_note": "EXEMPLES À REMPLACER : whatsapp, prix, horaires, zone, adresse, ninea (laisser vide pour masquer).",
-    "horaires": "Lun–Sam, 7h–18h",
+    "horaires": "Lun–Dim, 7h–18h",
     "zone": "Livraison à Dakar et environs",
     "adresse": "",
     "ninea": ""
